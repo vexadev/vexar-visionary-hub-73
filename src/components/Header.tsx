@@ -1,3 +1,4 @@
+
 import { useEffect, useState } from 'react';
 
 const Header = () => {
@@ -32,7 +33,6 @@ const Header = () => {
           <nav className="hidden md:flex items-center space-x-10">
             <a href="/" className="text-sm font-medium hover:text-primary transition-colors">Home</a>
             <a href="/team" className="text-sm font-medium hover:text-primary transition-colors">Team</a>
-            <a href="#products" className="text-sm font-medium hover:text-primary transition-colors">Products</a>
             <a href="#about" className="text-sm font-medium hover:text-primary transition-colors">About</a>
             <a href="#contact" className="text-sm font-medium hover:text-primary transition-colors">Contact</a>
           </nav>
