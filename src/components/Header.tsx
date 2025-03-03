@@ -21,7 +21,7 @@ const Header = () => {
     };
   }, []);
 
-  const shadowClass = shadow ? 'shadow-md bg-white' : 'bg-transparent';
+  const shadowClass = shadow ? 'shadow-md bg-white dark:bg-black' : 'bg-transparent';
 
   return (
     <header className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${shadowClass}`}>
@@ -32,14 +32,14 @@ const Header = () => {
           </a>
           
           <nav className="hidden md:flex items-center space-x-10">
-            <a href="/" className="text-sm font-medium hover:text-primary transition-colors">Home</a>
-            <a href="/team" className="text-sm font-medium hover:text-primary transition-colors">Team</a>
-            <a href="#about" className="text-sm font-medium hover:text-primary transition-colors">About</a>
-            <a href="#contact" className="text-sm font-medium hover:text-primary transition-colors">Contact</a>
+            <a href="/" className="text-sm font-medium hover:text-black dark:hover:text-white transition-colors">Home</a>
+            <a href="/team" className="text-sm font-medium hover:text-black dark:hover:text-white transition-colors">Team</a>
+            <a href="#about" className="text-sm font-medium hover:text-black dark:hover:text-white transition-colors">About</a>
+            <a href="#contact" className="text-sm font-medium hover:text-black dark:hover:text-white transition-colors">Contact</a>
           </nav>
           
           <div className="md:hidden">
-            <button className="text-gray-600 hover:text-primary">
+            <button className="text-gray-600 hover:text-black dark:hover:text-white">
               <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
               </svg>

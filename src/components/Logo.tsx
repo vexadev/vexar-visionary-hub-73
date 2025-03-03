@@ -9,7 +9,7 @@ const Logo = () => {
         alt="Vexar Dev Logo" 
         className="h-8 w-8 mr-2"
       />
-      <span className="text-xl font-bold text-primary">Vexar Dev</span>
+      <span className="text-xl font-bold text-black dark:text-white">Vexar Dev</span>
     </div>
   );
 };
