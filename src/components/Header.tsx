@@ -1,5 +1,6 @@
 
 import { useEffect, useState } from 'react';
+import Logo from './Logo';
 
 const Header = () => {
   const [shadow, setShadow] = useState(false);
@@ -27,7 +28,7 @@ const Header = () => {
       <div className="container mx-auto px-6">
         <div className="flex items-center justify-between py-4">
           <a href="/" className="flex items-center">
-            <span className="text-xl font-bold text-primary">Vexar Dev</span>
+            <Logo />
           </a>
           
           <nav className="hidden md:flex items-center space-x-10">
