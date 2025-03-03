@@ -51,7 +51,7 @@ const Hero = () => {
           className="reveal flex flex-col items-center text-center max-w-4xl mx-auto"
         >
           <div className="inline-block px-3 py-1 rounded-full bg-blue-100 text-blue-700 text-xs font-medium tracking-wider mb-6 animate-fade-in" style={{ animationDelay: '0.3s' }}>
-            CRAFTING DIGITAL EXCELLENCE
+            VEXAR DEVELOPMENT
           </div>
           
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight text-balance mb-6 animate-fade-in" style={{ animationDelay: '0.5s' }}>
@@ -59,15 +59,15 @@ const Hero = () => {
           </h1>
           
           <p className="text-lg md:text-xl text-muted-foreground mb-10 max-w-3xl text-balance animate-fade-in" style={{ animationDelay: '0.7s' }}>
-            We build innovative products that solve real problems. From Lambda Go to Dev Rel and beyond, we're crafting the future of technology.
+            We're a dedicated team of developers creating custom software solutions that solve real-world problems. Discover our expertise in web development, mobile applications, and custom software.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 animate-fade-in" style={{ animationDelay: '0.9s' }}>
             <Button className="bg-primary hover:bg-primary/90 text-white px-8 py-6 text-md">
-              Explore Our Products
+              Our Services
             </Button>
             <Button variant="outline" className="border-primary text-primary hover:bg-primary/5 px-8 py-6 text-md">
-              Start a Project
+              Contact Us
             </Button>
           </div>
         </div>

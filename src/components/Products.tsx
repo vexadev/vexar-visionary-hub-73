@@ -6,25 +6,25 @@ import { ArrowRight } from 'lucide-react';
 const products = [
   {
     id: 1,
-    name: "Lambda Go",
-    description: "A powerful serverless computing platform that allows you to run code without provisioning or managing servers.",
-    features: ["Instant scaling", "Zero server management", "Pay-per-use pricing"],
+    name: "Web Development",
+    description: "Custom website and web application development using the latest technologies for optimal performance and user experience.",
+    features: ["Responsive design", "SEO optimization", "Performance focused"],
     image: "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
     delay: 0
   },
   {
     id: 2,
-    name: "Dev Rel",
-    description: "Our developer relations platform that helps you build and nurture developer communities around your products.",
-    features: ["Community insights", "Event management", "Developer feedback loop"],
+    name: "Mobile Applications",
+    description: "Native and cross-platform mobile app development for iOS and Android, delivering seamless user experiences.",
+    features: ["Cross-platform solutions", "Native performance", "Offline capabilities"],
     image: "https://images.unsplash.com/photo-1605810230434-7631ac76ec81?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
     delay: 0.2
   },
   {
     id: 3,
-    name: "Vexar Cloud",
-    description: "A comprehensive cloud platform that provides infrastructure, platform, and software as a service.",
-    features: ["Global infrastructure", "Advanced security", "Flexible pricing"],
+    name: "Custom Software",
+    description: "Tailor-made software solutions designed to solve your specific business challenges and improve operational efficiency.",
+    features: ["Scalable architecture", "Enterprise integration", "Ongoing support"],
     image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
     delay: 0.4
   }
