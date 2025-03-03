@@ -6,24 +6,24 @@ import { ArrowRight } from 'lucide-react';
 const projects = [
   {
     id: 1,
-    name: "Discord Bots",
-    description: "Custom Discord bots with powerful moderation, music, and utility features to enhance your server experience.",
-    features: ["Easy configuration", "24/7 uptime", "Custom commands"],
+    name: "Web Applications",
+    description: "Custom web applications with responsive designs, intuitive UIs, and powerful backend integrations for businesses and startups.",
+    features: ["Modern tech stack", "Responsive design", "API integration"],
     image: "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
     delay: 0
   },
   {
     id: 2,
-    name: "Server Templates",
-    description: "Pre-configured Discord server templates with channels, roles, and permissions optimized for different community types.",
-    features: ["Gaming communities", "Educational servers", "Development teams"],
+    name: "Mobile Development",
+    description: "Cross-platform mobile applications built with modern frameworks that deliver native-like experiences on both iOS and Android devices.",
+    features: ["Cross-platform", "Native performance", "Offline capabilities"],
     image: "https://images.unsplash.com/photo-1605810230434-7631ac76ec81?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
     delay: 0.2
   },
   {
     id: 3,
     name: "Open-Source Tools",
-    description: "Free and open-source tools to help you build, manage and grow your Discord community with ease.",
+    description: "Free and open-source tools to help developers build better software with improved workflows, testing, and deployment processes.",
     features: ["Community-driven", "MIT licensed", "Regular updates"],
     image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
     delay: 0.4
