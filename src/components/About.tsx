@@ -1,3 +1,4 @@
+
 import { useEffect, useRef } from 'react';
 
 const teamMembers = [
@@ -88,10 +89,6 @@ const About = () => {
               <div className="bg-white p-6 rounded-lg shadow-sm border border-gray-100">
                 <div className="text-4xl font-bold text-primary mb-2">50+</div>
                 <div className="text-muted-foreground">Projects Completed</div>
-              </div>
-              <div className="bg-white p-6 rounded-lg shadow-sm border border-gray-100">
-                <div className="text-4xl font-bold text-primary mb-2">30+</div>
-                <div className="text-muted-foreground">Happy Clients</div>
               </div>
               <div className="bg-white p-6 rounded-lg shadow-sm border border-gray-100">
                 <div className="text-4xl font-bold text-primary mb-2">3</div>
