@@ -2,9 +2,9 @@ import { useEffect, useRef } from 'react';
 
 const teamMembers = [
   {
-    name: "Alex Chen",
+    name: "Vihaa",
     role: "Founder & Lead Developer",
-    bio: "With over 10 years of experience in software development, Alex founded Vexar Development with a vision to create impactful software solutions. Specialized in full-stack development and system architecture.",
+    bio: "With over 10 years of experience in software development, Vihaa founded Vexar Development with a vision to create impactful software solutions. Specialized in full-stack development and system architecture.",
     image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
     delay: 0
   },
@@ -101,7 +101,7 @@ const About = () => {
 
             <div className="reveal space-y-6 text-muted-foreground">
               <p>
-                Founded by Alex Chen in 2019, Vexar Development started with a simple mission: to build software that makes a difference. What began as a solo venture has grown into a small team of dedicated professionals.
+                Founded by Vihaa in 2019, Vexar Development started with a simple mission: to build software that makes a difference. What began as a solo venture has grown into a small team of dedicated professionals.
               </p>
               <p>
                 We specialize in web development, mobile applications, and custom software solutions. Our approach combines technical excellence with a deep understanding of our clients' needs.
