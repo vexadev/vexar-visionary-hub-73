@@ -45,31 +45,19 @@ const Footer = () => {
               <li>
                 <a href="#" className="text-slate-400 hover:text-white transition-colors flex items-center">
                   <ChevronRight size={14} className="mr-2" />
-                  Lambda Go
+                  Custom Software
                 </a>
               </li>
               <li>
                 <a href="#" className="text-slate-400 hover:text-white transition-colors flex items-center">
                   <ChevronRight size={14} className="mr-2" />
-                  Dev Rel
+                  Web Applications
                 </a>
               </li>
               <li>
                 <a href="#" className="text-slate-400 hover:text-white transition-colors flex items-center">
                   <ChevronRight size={14} className="mr-2" />
-                  Vexar Cloud
-                </a>
-              </li>
-              <li>
-                <a href="#" className="text-slate-400 hover:text-white transition-colors flex items-center">
-                  <ChevronRight size={14} className="mr-2" />
-                  Analytics Suite
-                </a>
-              </li>
-              <li>
-                <a href="#" className="text-slate-400 hover:text-white transition-colors flex items-center">
-                  <ChevronRight size={14} className="mr-2" />
-                  API Manager
+                  Mobile Apps
                 </a>
               </li>
             </ul>
