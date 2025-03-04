@@ -101,7 +101,7 @@ const About = () => {
 
             <div className="reveal space-y-6 text-muted-foreground">
               <p>
-                Founded by Vihaa in 2019, Vexar Development started with a simple mission: to build software that makes a difference. What began as a solo venture has grown into a small team of dedicated professionals.
+                Founded by Vihaa in 2024, Vexar Development started with a mission to release and make cool things. What began as a solo venture has grown into a small team of dedicated professionals.
               </p>
               <p>
                 We specialize in web development, mobile applications, and custom software solutions. Our approach combines technical excellence with a deep understanding of our clients' needs.
